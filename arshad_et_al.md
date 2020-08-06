@@ -5,8 +5,9 @@ the Henry Ford Hospital and Wayne State University
 (https://www.ijidonline.com/action/showPdf?pii=S1201-9712%2820%2930534-8) has
 received lots of attention and, in my opinion, at least partially unwarranted
 criticism.  Representative examples of criticism include a story by STAT news
-called "A flawed Covid-19 study gets the White House's attention--and the FDA
-may pay the price"
+called
+"**A flawed Covid-19 study gets the White House's attention--and the FDA
+may pay the price**"
 (https://www.statnews.com/2020/07/08/a-flawed-covid-19-study-gets-the-white-houses-attention-and-the-fda-may-pay-the-price/)
 and recent comments by Dr. Anthony Fauci, director of the National Institute of
 Allergy and Infectious Diseases (A flawed Covid-19 study gets the White House’s
