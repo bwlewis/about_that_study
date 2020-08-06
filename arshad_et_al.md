@@ -68,8 +68,7 @@ To be sure, there are three areas the paper could improve on. In particular:
 3. Data were matched on dichotomous variables, illustrated in Table 3. That might be fine. Even so, the output of the matched data should show more descriptive statistics on each arm for underlying continuous variables. For example consider subject age, clearly a continuous variable. The matching criterion was Age >= 65 years (yes or no). The output of the matching process should show us at least the mean and median age from each arm. Instead, we only get the count of subjects in each arm meeting the Age >= 65 cutoff. Without more descriptive statistics shown for the matched data, we don't have good sense of how well-balanced the matching output really is.
 
 
-But I strongly believe that, rather than dismiss the results as "flawed" we
-should appreciate the result shown in Figure 2, understanding that it
-represents only 190 HCQ-treated subjects. And then we should discuss ways to
-expand this kind of matched, retrospective analysis to much larger sets of
-data.
+I strongly believe that, rather than dismiss this paper as "flawed" we should
+appreciate the result shown in Figure 2, understanding that it represents only
+190 HCQ-treated subjects. And then we should discuss ways to expand this kind
+of matched, retrospective analysis to much larger sets of data.
