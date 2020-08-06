@@ -30,7 +30,7 @@ Dr. Fauci's main criticisms.
 I worry that the recent kerfuffle about this paper unfairly diminishes
 the importance of carefully designed retrospective cohort studies
 that use matching methods to help make inferences about data.  The STAT News
-piece acknowledges that retrospective analyses can be useful but also pointedly
+piece acknowledges the utility of retrospective analyses but also pointedly
 states that, "Again and again (retrospective studies) have been wrong." Careful
 though--one can find cases of treatments approved using evidence from clinical
 trials that were later found harmful largely through retrospective analysis.
