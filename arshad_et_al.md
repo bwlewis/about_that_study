@@ -9,7 +9,7 @@ criticism.  Representative examples of criticism include a story by STAT news
 may pay the price**](https://www.statnews.com/2020/07/08/a-flawed-covid-19-study-gets-the-white-houses-attention-and-the-fda-may-pay-the-price/)
 and recent comments by Dr. Anthony Fauci, director of the National Institute of
 Allergy and Infectious Diseases in
-[** Fauci: Henry Ford Health's hydroxychloroquine study 'flawed' **](https://www.detroitnews.com/story/news/local/michigan/2020/07/31/anthony-fauci-henry-ford-health-hydroxychloroquine-study-flawed/5559367002/).
+[**Fauci: Henry Ford Health's hydroxychloroquine study 'flawed'**](https://www.detroitnews.com/story/news/local/michigan/2020/07/31/anthony-fauci-henry-ford-health-hydroxychloroquine-study-flawed/5559367002/).
 
 
 Criticism of the paper is focussed on the need for carefully designed
