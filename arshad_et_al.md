@@ -14,8 +14,9 @@ Allergy and Infectious Diseases in
 
 Criticism of the paper is focussed on the need for carefully designed
 randomized clinical trials (RCT) to assess the effect of a treatment.  Of
-course that RCT is an essential, well-known and well-understood mathematical
-technique and should be the primary method of treatment assessment.
+course RCT is an essential, well-known and well-understood mathematical
+technique and should be the primary method of treatment assessment. But
+carefully conducted, matched retrospective analyses are important too.
 
 Unfortunately, the first set of results in the paper (Tables 1 and 2 and Figure
 1) present comparison statistics on the raw data.  These comparisons are weak
