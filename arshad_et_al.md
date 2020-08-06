@@ -18,8 +18,8 @@ course RCT is an essential, well-known and well-understood mathematical
 technique and should be the primary method of treatment assessment. But
 carefully conducted, matched retrospective analyses are important too.
 
-Unfortunately, the first set of results in the paper (Tables 1 and 2 and Figure
-1) present comparison statistics on the raw data.  These comparisons are weak
+Unfortunately, the first set of results in the paper (Tables 1 and 2 and
+Figure 1) present comparison statistics on the raw data.  These comparisons are weak
 and inferences from them not easy to make. Figure 1, for instance, illustrates
 survival curves comparing unmedicated and HCQ- and AZM-medicated subjects. But
 because these data are unmatched, and most of the HCQ-medicated patients also
