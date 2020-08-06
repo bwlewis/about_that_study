@@ -62,7 +62,7 @@ about treatment effect independently of steroid therapy.
 To be sure, there are three areas the paper could improve on. In particular:
 
 1. As already mentioned, the comparison statistics in the first set of analyses in Tables 1, 2 and Figure 1 are misleading because they were run on un-matched data. They probably should not be stated at all, or perhaps in an appendix.
-2. The matching method is 1:1 propensity-score based, but little else is described. A more thorough description of the precise matching methodology should be stated. It's possible that more modern methods could be applied, like coarsened-exact matching and genetic algorithm matching, that might be better to use.
+2. The matching method is 1:1 propensity-score based, but little else is described. A more thorough description of the precise matching methodology should be stated. It's possible that more modern methods could be applied, like coarsened-exact matching or genetic algorithm matching.
 3. Data were matched on dichotomous variables, illustrated in Table 3. That might be fine. Even so, the output of the matched data should show more descriptive statistics on each arm for underlying continuous variables. For example consider subject age, a continuous variable that is known to be important in the outcome of this disease. The matching criterion was Age >= 65 years (yes or no). The output of the matching process should show us at least the mean and median age from each arm. Instead, we only get the count of subjects in each arm meeting the Age >= 65 cutoff. Without more descriptive statistics shown for the matched data, we don't have good sense of how well-balanced the matching output really is.
 
 
