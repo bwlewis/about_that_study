@@ -47,7 +47,7 @@ data are, in their own right, powerful and immensely useful mathematical tools.
 
 
 Dr. Fauci's criticism does not apply to the matched comparison shown in Tables
-3 and 4 and Figure 2. The matching process in this example, controls for
+3 and 4 and Figure 2. The matching process in this example controls for
 steroid therapy between the treatment (given HCQ) and control (not given HCQ)
 arms.  In those results, exactly 84 of 190 total subjects in each arm were
 given steroid therapy. That is the point of matching! Matched data control for
