@@ -50,8 +50,7 @@ Dr. Fauci's criticism simply does not apply to the matched comparison shown in T
 steroid therapy between the treatment (given HCQ) and control (not given HCQ)
 arms.  In those results, exactly 84 of 190 total subjects in each arm were
 given steroid therapy. That is the point of matching! Matched data control for
-differences between subjects, emulating a blocked, and possibly randomized depending
-on matching details, design.
+differences between subjects, emulating a blocked design.
 
 Because so many subjects received steroid therapy in this study, it was hard
 for the matching process to find lots of subjects *not given* steroids.  This
